@@ -4,8 +4,7 @@
     "type": "library",
     "version": "1.0",
     "keywords": [
-        "php",
-        "sdk"
+        "php"
     ],
     "license": "MIT",
     "authors": [
@@ -55,13 +54,9 @@
     "scripts": {
         "pint": [
             "./vendor/bin/pint"
-        ],
-        "stan": [
-            "./vendor/bin/phpstan analyse --memory-limit=3g"
         ]
     },
     "scripts-descriptions": {
-        "pint": "Run Laravel Pint on the codebase.",
-        "stan": "Run PhpStan on the codebase."
+        "pint": "Run Laravel Pint on the codebase."
     }
 }
