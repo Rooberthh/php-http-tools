@@ -1,5 +1,7 @@
 <?php
 
+namespace Rooberthh\HttpTools\Enums;
+
 enum StatusCode: int
 {
     case CONTINUE = 100;
