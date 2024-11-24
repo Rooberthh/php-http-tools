@@ -2,7 +2,7 @@
     "name": "rooberthh/php-http-tools",
     "description": "Basic Enums for HTTP methods and status codes.",
     "type": "library",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "keywords": [
         "php"
     ],
