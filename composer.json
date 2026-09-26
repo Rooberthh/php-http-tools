@@ -2,7 +2,6 @@
     "name": "rooberthh/php-http-tools",
     "description": "Basic Enums for HTTP methods and status codes.",
     "type": "library",
-    "version": "0.1.1",
     "keywords": [
         "php"
     ],
@@ -25,9 +24,6 @@
         "laravel/pint": "^1.13.7",
         "phpstan/phpstan": "^1.10.50",
         "roave/security-advisories": "dev-latest"
-    },
-    "provide": {
-        "psr-discovery/http-client-implementations": "^1.0"
     },
     "suggest": {},
     "autoload": {
